@@ -1,0 +1,7 @@
+D:\fileMonitor\bin\Debug\Files.exe
+D:\fileMonitor\bin\Debug\Files.pdb
+D:\fileMonitor\obj\Debug\Files.csprojResolveAssemblyReference.cache
+D:\fileMonitor\obj\Debug\Files.Form1.resources
+D:\fileMonitor\obj\Debug\Files.csproj.GenerateResource.Cache
+D:\fileMonitor\obj\Debug\Files.exe
+D:\fileMonitor\obj\Debug\Files.pdb
